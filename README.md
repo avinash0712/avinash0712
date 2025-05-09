@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Avinash 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishan-ghetiya&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=avinash0712&color=brightgreen&style=plastic" alt="Profile Views" />
 </p>
 
 👋 Hi, I'm **Avinash Singh**, a dedicated **Freelancer**. With over 5 years of coding experience. I’m a passionate learner at heart, always eager to explore new technologies and find innovative ways to solve real-world problems. 🚀
